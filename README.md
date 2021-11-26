@@ -1,6 +1,9 @@
 # DIMI M2 — Start
 web, html, css, js, git, github, markdown, vscode...
 
+- [Projet référent (Joseph M)](https://github.com/jniac/dimi-m2-fa-start-21-22)
+- [Projet collaboratif](https://github.com/jniac/dimi-m2-fa-start-21-22)
+
 ## Initialiser GIT (pour pouvoir faire des "commits")
 
 Pourquoi ?
